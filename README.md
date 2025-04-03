@@ -8,7 +8,7 @@ This application helps you to work on it. In this application, you can analyze y
 <br>
 Why wait more❓❓ Check it out: ⬇⬇⬇⬇⬇</p>
 
-<p  align="center"><a href="https://manoj0727.github.io/Github-Profile-Analyser/"><img alt="Custom badge" src="https://img.shields.io/static/v1?label=LIVE%20DEMO&style=for-the-badge&message=https%3A%2F%2Faakansha99.github.io%2FGithub-Profile-Analyser%2F&color=red"></a></p>
+<p  align="center"><a href="https://manoj0727.github.io/Github-Profile-Analyser/"><img alt="Custom badge" src="https://img.shields.io/static/v1?label=LIVE%20DEMO&style=for-the-badge&message=https%3A%2F%2Fmanoj0727.github.io%2FGithub-Profile-Analyser%2F&color=red"></a></p>
 
 <p align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Logo" width="300"></p>
 
