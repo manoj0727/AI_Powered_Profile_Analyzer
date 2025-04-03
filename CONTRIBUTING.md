@@ -33,6 +33,6 @@ If you'd like to get accounted for contributions under this program, then the co
 
 That's all!
 
-The Live Tool can be accessed here:  https://aakansha99.github.io/Github-Profile-Analyser/.
+The Live Tool can be accessed here:  https://manoj0727.github.io/Github-Profile-Analyser/.
 
 To know about the entire repository, head straightaway to the [README](README.md) file.
